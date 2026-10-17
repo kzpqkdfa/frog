@@ -1,0 +1,17 @@
+{
+  "name": "가계부",
+  "short_name": "가계부",
+  "description": "부동산 및 일상 재정 관리를 위한 스마트 가계부",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#022c22",
+  "theme_color": "#064e3b",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

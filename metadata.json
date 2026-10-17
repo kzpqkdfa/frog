@@ -1,0 +1,6 @@
+{
+  "name": "가계부",
+  "description": "부동산 및 일상 재정 관리를 위한 스마트 초록빛 가계부 (월별 요약, 거래 내역 상세, 카테고리/연도 자유 관리)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
